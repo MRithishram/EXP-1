@@ -37,39 +37,38 @@ b.  KCL:
 4.   Switch on the RPS.
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
-7.   Take readings for different values of input voltage and tabulate them. 
+7.   Take readings for different values of input voltage and tabulate them.
+   
 CIRCUIT DIAGRAM:
-
-CIRCUIT DIAGRAM:
-
 
 a.   KVL:
- 
+<img width="1057" height="775" alt="image" src="https://github.com/user-attachments/assets/c6cb4409-c942-420c-92fe-b023cd61b6c6" />
 
 
 b.  KCL:
  
+<img width="1050" height="647" alt="image" src="https://github.com/user-attachments/assets/75a43363-e480-42ad-8a31-e5575b87d70a" />
 
 Calculation:
 
 a.   KVL:
+<img width="1196" height="1280" alt="image" src="https://github.com/user-attachments/assets/e92688d3-5ad0-4236-b2a9-7ac16446ecb2" />
  
-
-
 b.  KCL:
 
+<img width="1280" height="674" alt="image" src="https://github.com/user-attachments/assets/7eba407b-9613-4bef-a94a-ba13f3b46865" />
 
-
+<img width="1093" height="1280" alt="image" src="https://github.com/user-attachments/assets/85787756-0568-407c-9804-ab1b80f30504" />
 
 Tabulation:
 
 a.   KVL:
  
-
+<img width="1280" height="782" alt="image" src="https://github.com/user-attachments/assets/2303299a-2f79-4118-bf5d-4178617395c8" />
 
 b.  KCL:
 
-
+<img width="1280" height="736" alt="image" src="https://github.com/user-attachments/assets/0a33d72b-4b89-4ea5-895f-050054d6fbdd" />
 
 RESULT:
 
